@@ -1,0 +1,19 @@
+{
+  "name": "hookscollection",
+  "version": "0.1.0",
+  "description": "React Hooks Collection",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redrockjs/hooksCollection.git"
+  },
+  "author": "RedRock",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/redrockjs/hooksCollection/issues"
+  },
+  "homepage": "https://github.com/redrockjs/hooksCollection#readme"
+}
